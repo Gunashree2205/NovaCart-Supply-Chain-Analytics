@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Selling_Price
+P001,Phone 1,Electronics,Phone,1898,3063.65
+P002,Phone 2,Electronics,Phone,2797,4161.61
+P003,Headphones 3,Electronics,Headphones,2440,3349.32
+P004,Headphones 4,Electronics,Headphones,4649,6637.92
+P005,Phone 5,Electronics,Phone,3027,5366.16
+P006,Laptop 6,Electronics,Laptop,2579,3159.89
+P007,Headphones 7,Electronics,Headphones,847,1192.42
+P008,Phone 8,Electronics,Phone,2300,3791.33
+P009,Laptop 9,Electronics,Laptop,1855,3147.51
+P010,Phone 10,Electronics,Phone,4804,7771.44
+P011,Laptop 11,Electronics,Laptop,1094,1716.93
+P012,Headphones 12,Electronics,Headphones,2160,2906.23
+P013,Headphones 13,Electronics,Headphones,4550,6076.08
+P014,Laptop 14,Electronics,Laptop,630,793.87
+P015,Phone 15,Electronics,Phone,4069,5128.27
+P016,Laptop 16,Electronics,Laptop,242,430.45
+P017,Laptop 17,Electronics,Laptop,3533,5623.6
+P018,Phone 18,Electronics,Phone,4111,6537.82
+P019,Phone 19,Electronics,Phone,2831,3882.01
+P020,Laptop 20,Electronics,Laptop,932,1483.17
+P021,Laptop 21,Electronics,Laptop,4583,7530.84
+P022,Laptop 22,Electronics,Laptop,1634,2370.49
+P023,Laptop 23,Electronics,Laptop,497,893.76
+P024,Phone 24,Electronics,Phone,4258,5585.59
+P025,Headphones 25,Electronics,Headphones,2571,4437.66
+P026,Laptop 26,Electronics,Laptop,2644,4073.81
+P027,Laptop 27,Electronics,Laptop,2944,4035.45
+P028,Headphones 28,Electronics,Headphones,4650,7042.85
+P029,Laptop 29,Electronics,Laptop,4330,6411.92
+P030,Laptop 30,Electronics,Laptop,1122,1569.02
+P031,Sofa 31,Furniture,Sofa,3959,6290.74
+P032,Sofa 32,Furniture,Sofa,1725,2084.58
+P033,Desk 33,Furniture,Desk,2616,4030.39
+P034,Chair 34,Furniture,Chair,1637,2564.48
+P035,Sofa 35,Furniture,Sofa,3521,5972.3
+P036,Sofa 36,Furniture,Sofa,2886,3613.4
+P037,Sofa 37,Furniture,Sofa,981,1285.96
+P038,Chair 38,Furniture,Chair,4111,5731.4
+P039,Chair 39,Furniture,Chair,255,345.9
+P040,Chair 40,Furniture,Chair,3859,6376.05
+P041,Desk 41,Furniture,Desk,2673,4141.75
+P042,Sofa 42,Furniture,Sofa,293,397.58
+P043,Desk 43,Furniture,Desk,2135,2641.58
+P044,Chair 44,Furniture,Chair,4012,5552.94
+P045,Desk 45,Furniture,Desk,4316,7569.68
+P046,Sofa 46,Furniture,Sofa,2747,4434.14
+P047,Sofa 47,Furniture,Sofa,2616,3716.1
+P048,Chair 48,Furniture,Chair,1995,3539.96
+P049,Desk 49,Furniture,Desk,1454,2141.72
+P050,Sofa 50,Furniture,Sofa,3260,4725.39
+P051,Sofa 51,Furniture,Sofa,4057,6711.94
+P052,Sofa 52,Furniture,Sofa,1989,3296.0
+P053,Sofa 53,Furniture,Sofa,870,1318.31
+P054,Sofa 54,Furniture,Sofa,3163,3943.82
+P055,Sofa 55,Furniture,Sofa,1119,1384.26
+P056,Sofa 56,Furniture,Sofa,4340,5734.42
+P057,Sofa 57,Furniture,Sofa,1427,1853.28
+P058,Sofa 58,Furniture,Sofa,3819,4849.15
+P059,Chair 59,Furniture,Chair,4977,7432.14
+P060,Sofa 60,Furniture,Sofa,3849,6486.39
+P061,Shoes 61,Fashion,Shoes,1280,1930.17
+P062,Shoes 62,Fashion,Shoes,4819,5949.74
+P063,Shoes 63,Fashion,Shoes,2724,4450.93
+P064,Shoes 64,Fashion,Shoes,2284,3859.67
+P065,Jacket 65,Fashion,Jacket,1985,3070.77
+P066,Shirt 66,Fashion,Shirt,3670,5162.65
+P067,Shirt 67,Fashion,Shirt,4633,8323.06
+P068,Shirt 68,Fashion,Shirt,4067,4957.84
+P069,Shoes 69,Fashion,Shoes,1674,2781.16
+P070,Jacket 70,Fashion,Jacket,3643,5190.1
+P071,Shoes 71,Fashion,Shoes,3874,6670.15
+P072,Shoes 72,Fashion,Shoes,3277,4090.19
+P073,Jacket 73,Fashion,Jacket,4617,5908.81
+P074,Shoes 74,Fashion,Shoes,1171,1530.6
+P075,Jacket 75,Fashion,Jacket,3419,5187.67
+P076,Jacket 76,Fashion,Jacket,2024,3442.61
+P077,Shirt 77,Fashion,Shirt,2644,3907.31
+P078,Jacket 78,Fashion,Jacket,4660,6777.86
+P079,Shoes 79,Fashion,Shoes,2081,2806.24
+P080,Shoes 80,Fashion,Shoes,1470,2007.12
+P081,Jacket 81,Fashion,Jacket,1124,1370.53
+P082,Jacket 82,Fashion,Jacket,3634,5701.58
+P083,Shirt 83,Fashion,Shirt,2171,2873.64
+P084,Shirt 84,Fashion,Shirt,475,697.24
+P085,Jacket 85,Fashion,Jacket,598,805.41
+P086,Shirt 86,Fashion,Shirt,3495,5114.51
+P087,Jacket 87,Fashion,Jacket,1979,3270.56
+P088,Shirt 88,Fashion,Shirt,1347,2023.65
+P089,Shoes 89,Fashion,Shoes,2118,3578.3
+P090,Jacket 90,Fashion,Jacket,4919,6844.01
+P091,Lamp 91,Home,Lamp,2826,3792.89
+P092,Mixer 92,Home,Mixer,4470,5956.84
+P093,Cookware 93,Home,Cookware,2454,3034.55
+P094,Lamp 94,Home,Lamp,1634,2574.52
+P095,Cookware 95,Home,Cookware,4753,7117.01
+P096,Cookware 96,Home,Cookware,3322,5552.67
+P097,Cookware 97,Home,Cookware,3610,5216.29
+P098,Cookware 98,Home,Cookware,3283,4301.8
+P099,Lamp 99,Home,Lamp,4079,5484.55
+P100,Mixer 100,Home,Mixer,2663,4565.78
+P101,Mixer 101,Home,Mixer,3993,6983.14
+P102,Lamp 102,Home,Lamp,3580,6374.8
+P103,Lamp 103,Home,Lamp,4541,5814.55
+P104,Mixer 104,Home,Mixer,2288,3024.74
+P105,Lamp 105,Home,Lamp,847,1485.08
+P106,Cookware 106,Home,Cookware,957,1455.96
+P107,Mixer 107,Home,Mixer,622,846.59
+P108,Lamp 108,Home,Lamp,523,901.74
+P109,Mixer 109,Home,Mixer,4778,6355.74
+P110,Mixer 110,Home,Mixer,2927,4044.86
+P111,Mixer 111,Home,Mixer,1935,3410.04
+P112,Lamp 112,Home,Lamp,1161,1913.48
+P113,Cookware 113,Home,Cookware,2187,3537.2
+P114,Lamp 114,Home,Lamp,1875,2696.21
+P115,Mixer 115,Home,Mixer,4722,6577.6
+P116,Cookware 116,Home,Cookware,3318,4909.81
+P117,Lamp 117,Home,Lamp,3143,4353.22
+P118,Cookware 118,Home,Cookware,4400,7610.62
+P119,Cookware 119,Home,Cookware,1007,1693.46
+P120,Lamp 120,Home,Lamp,4046,6704.13
+P121,Football 121,Sports,Football,1864,2651.4
+P122,Football 122,Sports,Football,574,882.53
+P123,Cricket Bat 123,Sports,Cricket Bat,1395,1687.58
+P124,Yoga Mat 124,Sports,Yoga Mat,4984,7712.67
+P125,Football 125,Sports,Football,2618,3381.01
+P126,Football 126,Sports,Football,2084,2975.75
+P127,Cricket Bat 127,Sports,Cricket Bat,4290,6565.35
+P128,Yoga Mat 128,Sports,Yoga Mat,2965,4015.78
+P129,Football 129,Sports,Football,4218,6227.87
+P130,Yoga Mat 130,Sports,Yoga Mat,3085,4015.31
+P131,Yoga Mat 131,Sports,Yoga Mat,4677,6982.71
+P132,Yoga Mat 132,Sports,Yoga Mat,681,1031.28
+P133,Cricket Bat 133,Sports,Cricket Bat,597,990.19
+P134,Football 134,Sports,Football,1326,2261.53
+P135,Cricket Bat 135,Sports,Cricket Bat,756,1227.97
+P136,Cricket Bat 136,Sports,Cricket Bat,1991,2993.35
+P137,Football 137,Sports,Football,695,1091.64
+P138,Yoga Mat 138,Sports,Yoga Mat,4158,6634.38
+P139,Cricket Bat 139,Sports,Cricket Bat,254,385.91
+P140,Football 140,Sports,Football,297,359.38
+P141,Yoga Mat 141,Sports,Yoga Mat,2450,3727.54
+P142,Football 142,Sports,Football,340,510.45
+P143,Yoga Mat 143,Sports,Yoga Mat,3727,6275.15
+P144,Cricket Bat 144,Sports,Cricket Bat,1076,1883.89
+P145,Yoga Mat 145,Sports,Yoga Mat,1419,1907.96
+P146,Yoga Mat 146,Sports,Yoga Mat,4512,6097.75
+P147,Football 147,Sports,Football,2389,4006.26
+P148,Cricket Bat 148,Sports,Cricket Bat,3256,5781.28
+P149,Football 149,Sports,Football,4828,6498.12
+P150,Yoga Mat 150,Sports,Yoga Mat,2050,2828.97

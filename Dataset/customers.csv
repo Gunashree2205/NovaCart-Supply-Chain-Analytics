@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Gender,Age,City,State,Region,Customer_Type
+C0001,Customer 1,Male,35,Bengaluru,Karnataka,South,Regular
+C0002,Customer 2,Male,24,Chennai,Tamil Nadu,South,Regular
+C0003,Customer 3,Female,20,Kolkata,West Bengal,East,Regular
+C0004,Customer 4,Male,32,Bengaluru,Karnataka,South,Regular
+C0005,Customer 5,Male,59,Kolkata,West Bengal,East,Premium
+C0006,Customer 6,Female,55,Chennai,Tamil Nadu,South,Premium
+C0007,Customer 7,Male,45,Bengaluru,Karnataka,South,Premium
+C0008,Customer 8,Male,31,Mumbai,Maharashtra,West,Premium
+C0009,Customer 9,Male,42,Bengaluru,Karnataka,South,Regular
+C0010,Customer 10,Female,56,Mumbai,Maharashtra,West,Premium
+C0011,Customer 11,Female,52,Bengaluru,Karnataka,South,Regular
+C0012,Customer 12,Male,53,New Delhi,Delhi,North,Premium
+C0013,Customer 13,Female,54,Kolkata,West Bengal,East,Regular
+C0014,Customer 14,Male,60,Bengaluru,Karnataka,South,Regular
+C0015,Customer 15,Male,32,Mumbai,Maharashtra,West,Regular
+C0016,Customer 16,Female,47,New Delhi,Delhi,North,Premium
+C0017,Customer 17,Female,40,Chennai,Tamil Nadu,South,Regular
+C0018,Customer 18,Male,56,Mumbai,Maharashtra,West,Regular
+C0019,Customer 19,Male,28,Kolkata,West Bengal,East,Premium
+C0020,Customer 20,Female,58,New Delhi,Delhi,North,Regular
+C0021,Customer 21,Male,32,Mumbai,Maharashtra,West,Regular
+C0022,Customer 22,Female,35,Mumbai,Maharashtra,West,Regular
+C0023,Customer 23,Female,31,Chennai,Tamil Nadu,South,Premium
+C0024,Customer 24,Female,27,New Delhi,Delhi,North,Premium
+C0025,Customer 25,Male,53,Chennai,Tamil Nadu,South,Premium
+C0026,Customer 26,Female,55,Kolkata,West Bengal,East,Premium
+C0027,Customer 27,Male,26,Mumbai,Maharashtra,West,Premium
+C0028,Customer 28,Male,25,Bengaluru,Karnataka,South,Regular
+C0029,Customer 29,Female,56,Chennai,Tamil Nadu,South,Regular
+C0030,Customer 30,Female,56,New Delhi,Delhi,North,Premium
+C0031,Customer 31,Female,53,Kolkata,West Bengal,East,Regular
+C0032,Customer 32,Female,59,Bengaluru,Karnataka,South,Premium
+C0033,Customer 33,Female,45,Bengaluru,Karnataka,South,Regular
+C0034,Customer 34,Male,34,New Delhi,Delhi,North,Regular
+C0035,Customer 35,Male,58,Kolkata,West Bengal,East,Premium
+C0036,Customer 36,Male,27,Kolkata,West Bengal,East,Premium
+C0037,Customer 37,Male,56,Chennai,Tamil Nadu,South,Premium
+C0038,Customer 38,Male,25,New Delhi,Delhi,North,Premium
+C0039,Customer 39,Male,21,Mumbai,Maharashtra,West,Regular
+C0040,Customer 40,Male,23,Kolkata,West Bengal,East,Premium
+C0041,Customer 41,Male,26,Bengaluru,Karnataka,South,Premium
+C0042,Customer 42,Male,34,Kolkata,West Bengal,East,Premium
+C0043,Customer 43,Male,37,Chennai,Tamil Nadu,South,Premium
+C0044,Customer 44,Female,51,Mumbai,Maharashtra,West,Premium
+C0045,Customer 45,Male,32,Bengaluru,Karnataka,South,Regular
+C0046,Customer 46,Male,55,Mumbai,Maharashtra,West,Regular
+C0047,Customer 47,Male,18,Kolkata,West Bengal,East,Regular
+C0048,Customer 48,Male,22,Bengaluru,Karnataka,South,Regular
+C0049,Customer 49,Male,50,Mumbai,Maharashtra,West,Regular
+C0050,Customer 50,Female,31,Mumbai,Maharashtra,West,Regular
+C0051,Customer 51,Female,33,Kolkata,West Bengal,East,Premium
+C0052,Customer 52,Male,24,New Delhi,Delhi,North,Regular
+C0053,Customer 53,Female,45,New Delhi,Delhi,North,Premium
+C0054,Customer 54,Male,59,New Delhi,Delhi,North,Regular
+C0055,Customer 55,Female,39,Bengaluru,Karnataka,South,Regular
+C0056,Customer 56,Male,30,Chennai,Tamil Nadu,South,Premium
+C0057,Customer 57,Female,29,Chennai,Tamil Nadu,South,Premium
+C0058,Customer 58,Male,22,New Delhi,Delhi,North,Premium
+C0059,Customer 59,Male,21,Kolkata,West Bengal,East,Regular
+C0060,Customer 60,Male,28,Bengaluru,Karnataka,South,Premium
+C0061,Customer 61,Female,31,New Delhi,Delhi,North,Premium
+C0062,Customer 62,Male,42,Bengaluru,Karnataka,South,Regular
+C0063,Customer 63,Female,47,New Delhi,Delhi,North,Premium
+C0064,Customer 64,Female,27,New Delhi,Delhi,North,Regular
+C0065,Customer 65,Male,21,Mumbai,Maharashtra,West,Regular
+C0066,Customer 66,Male,21,Mumbai,Maharashtra,West,Premium
+C0067,Customer 67,Male,21,Kolkata,West Bengal,East,Regular
+C0068,Customer 68,Male,56,Chennai,Tamil Nadu,South,Regular
+C0069,Customer 69,Female,25,Chennai,Tamil Nadu,South,Regular
+C0070,Customer 70,Male,57,Kolkata,West Bengal,East,Regular
+C0071,Customer 71,Female,34,New Delhi,Delhi,North,Regular
+C0072,Customer 72,Male,34,Mumbai,Maharashtra,West,Premium
+C0073,Customer 73,Female,47,Chennai,Tamil Nadu,South,Premium
+C0074,Customer 74,Male,47,Bengaluru,Karnataka,South,Regular
+C0075,Customer 75,Male,50,Bengaluru,Karnataka,South,Premium
+C0076,Customer 76,Female,22,Chennai,Tamil Nadu,South,Regular
+C0077,Customer 77,Female,28,Mumbai,Maharashtra,West,Premium
+C0078,Customer 78,Female,57,Kolkata,West Bengal,East,Regular
+C0079,Customer 79,Female,60,Kolkata,West Bengal,East,Regular
+C0080,Customer 80,Female,25,Chennai,Tamil Nadu,South,Regular
+C0081,Customer 81,Male,35,Kolkata,West Bengal,East,Premium
+C0082,Customer 82,Male,39,Kolkata,West Bengal,East,Regular
+C0083,Customer 83,Female,34,Mumbai,Maharashtra,West,Regular
+C0084,Customer 84,Female,35,Bengaluru,Karnataka,South,Regular
+C0085,Customer 85,Female,26,Bengaluru,Karnataka,South,Premium
+C0086,Customer 86,Female,53,Chennai,Tamil Nadu,South,Premium
+C0087,Customer 87,Male,25,Kolkata,West Bengal,East,Regular
+C0088,Customer 88,Male,41,Chennai,Tamil Nadu,South,Regular
+C0089,Customer 89,Male,20,New Delhi,Delhi,North,Premium
+C0090,Customer 90,Male,40,Mumbai,Maharashtra,West,Regular
+C0091,Customer 91,Male,40,Chennai,Tamil Nadu,South,Premium
+C0092,Customer 92,Male,33,Kolkata,West Bengal,East,Regular
+C0093,Customer 93,Female,19,Chennai,Tamil Nadu,South,Regular
+C0094,Customer 94,Female,60,Mumbai,Maharashtra,West,Regular
+C0095,Customer 95,Male,24,Mumbai,Maharashtra,West,Premium
+C0096,Customer 96,Female,32,Bengaluru,Karnataka,South,Regular
+C0097,Customer 97,Female,37,New Delhi,Delhi,North,Regular
+C0098,Customer 98,Male,60,Chennai,Tamil Nadu,South,Regular
+C0099,Customer 99,Female,35,New Delhi,Delhi,North,Regular
+C0100,Customer 100,Female,59,Mumbai,Maharashtra,West,Premium
+C0101,Customer 101,Female,19,Kolkata,West Bengal,East,Regular
+C0102,Customer 102,Male,55,Mumbai,Maharashtra,West,Premium
+C0103,Customer 103,Male,56,Bengaluru,Karnataka,South,Premium
+C0104,Customer 104,Female,45,Mumbai,Maharashtra,West,Regular
+C0105,Customer 105,Male,34,New Delhi,Delhi,North,Regular
+C0106,Customer 106,Male,51,New Delhi,Delhi,North,Regular
+C0107,Customer 107,Female,22,Mumbai,Maharashtra,West,Premium
+C0108,Customer 108,Female,60,Kolkata,West Bengal,East,Regular
+C0109,Customer 109,Female,60,Mumbai,Maharashtra,West,Premium
+C0110,Customer 110,Female,36,Mumbai,Maharashtra,West,Regular
+C0111,Customer 111,Female,60,Chennai,Tamil Nadu,South,Premium
+C0112,Customer 112,Female,43,Chennai,Tamil Nadu,South,Regular
+C0113,Customer 113,Female,31,Mumbai,Maharashtra,West,Premium
+C0114,Customer 114,Female,47,Kolkata,West Bengal,East,Premium
+C0115,Customer 115,Male,50,New Delhi,Delhi,North,Premium
+C0116,Customer 116,Male,36,Chennai,Tamil Nadu,South,Premium
+C0117,Customer 117,Male,37,Bengaluru,Karnataka,South,Regular
+C0118,Customer 118,Male,19,Chennai,Tamil Nadu,South,Regular
+C0119,Customer 119,Female,57,Chennai,Tamil Nadu,South,Regular
+C0120,Customer 120,Female,58,New Delhi,Delhi,North,Regular
+C0121,Customer 121,Female,43,New Delhi,Delhi,North,Regular
+C0122,Customer 122,Male,24,Chennai,Tamil Nadu,South,Premium
+C0123,Customer 123,Male,51,Chennai,Tamil Nadu,South,Premium
+C0124,Customer 124,Male,25,Bengaluru,Karnataka,South,Premium
+C0125,Customer 125,Female,60,Chennai,Tamil Nadu,South,Premium
+C0126,Customer 126,Female,53,New Delhi,Delhi,North,Premium
+C0127,Customer 127,Female,46,Chennai,Tamil Nadu,South,Premium
+C0128,Customer 128,Female,51,Chennai,Tamil Nadu,South,Premium
+C0129,Customer 129,Female,46,Chennai,Tamil Nadu,South,Regular
+C0130,Customer 130,Male,35,Mumbai,Maharashtra,West,Premium
+C0131,Customer 131,Male,26,Mumbai,Maharashtra,West,Regular
+C0132,Customer 132,Female,27,Chennai,Tamil Nadu,South,Regular
+C0133,Customer 133,Female,44,Bengaluru,Karnataka,South,Premium
+C0134,Customer 134,Female,44,Kolkata,West Bengal,East,Regular
+C0135,Customer 135,Female,42,Chennai,Tamil Nadu,South,Regular
+C0136,Customer 136,Female,48,Kolkata,West Bengal,East,Regular
+C0137,Customer 137,Female,42,Mumbai,Maharashtra,West,Premium
+C0138,Customer 138,Male,49,Kolkata,West Bengal,East,Regular
+C0139,Customer 139,Female,49,Mumbai,Maharashtra,West,Regular
+C0140,Customer 140,Female,60,New Delhi,Delhi,North,Premium
+C0141,Customer 141,Female,26,Chennai,Tamil Nadu,South,Regular
+C0142,Customer 142,Male,23,New Delhi,Delhi,North,Premium
+C0143,Customer 143,Female,29,Chennai,Tamil Nadu,South,Regular
+C0144,Customer 144,Female,38,Mumbai,Maharashtra,West,Regular
+C0145,Customer 145,Female,39,New Delhi,Delhi,North,Premium
+C0146,Customer 146,Female,34,Mumbai,Maharashtra,West,Regular
+C0147,Customer 147,Male,52,New Delhi,Delhi,North,Regular
+C0148,Customer 148,Male,59,Mumbai,Maharashtra,West,Regular
+C0149,Customer 149,Male,33,Bengaluru,Karnataka,South,Regular
+C0150,Customer 150,Male,33,Bengaluru,Karnataka,South,Regular
+C0151,Customer 151,Male,54,New Delhi,Delhi,North,Regular
+C0152,Customer 152,Female,41,New Delhi,Delhi,North,Regular
+C0153,Customer 153,Male,28,Kolkata,West Bengal,East,Premium
+C0154,Customer 154,Male,37,Bengaluru,Karnataka,South,Premium
+C0155,Customer 155,Male,22,New Delhi,Delhi,North,Regular
+C0156,Customer 156,Female,56,Bengaluru,Karnataka,South,Regular
+C0157,Customer 157,Male,40,Kolkata,West Bengal,East,Premium
+C0158,Customer 158,Male,50,Mumbai,Maharashtra,West,Premium
+C0159,Customer 159,Female,49,Bengaluru,Karnataka,South,Regular
+C0160,Customer 160,Female,58,New Delhi,Delhi,North,Premium
+C0161,Customer 161,Female,29,Chennai,Tamil Nadu,South,Premium
+C0162,Customer 162,Female,47,Kolkata,West Bengal,East,Premium
+C0163,Customer 163,Female,38,Kolkata,West Bengal,East,Regular
+C0164,Customer 164,Female,46,Bengaluru,Karnataka,South,Regular
+C0165,Customer 165,Female,39,New Delhi,Delhi,North,Regular
+C0166,Customer 166,Female,29,New Delhi,Delhi,North,Premium
+C0167,Customer 167,Female,34,Chennai,Tamil Nadu,South,Premium
+C0168,Customer 168,Female,53,Mumbai,Maharashtra,West,Regular
+C0169,Customer 169,Male,23,Kolkata,West Bengal,East,Regular
+C0170,Customer 170,Female,53,New Delhi,Delhi,North,Regular
+C0171,Customer 171,Female,46,New Delhi,Delhi,North,Regular
+C0172,Customer 172,Female,32,Bengaluru,Karnataka,South,Premium
+C0173,Customer 173,Female,60,Chennai,Tamil Nadu,South,Premium
+C0174,Customer 174,Female,45,New Delhi,Delhi,North,Premium
+C0175,Customer 175,Female,35,Mumbai,Maharashtra,West,Premium
+C0176,Customer 176,Male,25,Mumbai,Maharashtra,West,Regular
+C0177,Customer 177,Male,52,Mumbai,Maharashtra,West,Regular
+C0178,Customer 178,Male,48,Chennai,Tamil Nadu,South,Premium
+C0179,Customer 179,Female,24,Kolkata,West Bengal,East,Regular
+C0180,Customer 180,Male,41,Mumbai,Maharashtra,West,Regular
+C0181,Customer 181,Male,52,Mumbai,Maharashtra,West,Regular
+C0182,Customer 182,Male,21,Mumbai,Maharashtra,West,Premium
+C0183,Customer 183,Female,24,Chennai,Tamil Nadu,South,Regular
+C0184,Customer 184,Female,48,Kolkata,West Bengal,East,Premium
+C0185,Customer 185,Female,29,New Delhi,Delhi,North,Regular
+C0186,Customer 186,Female,25,Mumbai,Maharashtra,West,Regular
+C0187,Customer 187,Female,22,New Delhi,Delhi,North,Regular
+C0188,Customer 188,Male,54,Chennai,Tamil Nadu,South,Premium
+C0189,Customer 189,Male,25,Bengaluru,Karnataka,South,Premium
+C0190,Customer 190,Male,51,Kolkata,West Bengal,East,Premium
+C0191,Customer 191,Female,37,New Delhi,Delhi,North,Premium
+C0192,Customer 192,Male,57,Mumbai,Maharashtra,West,Regular
+C0193,Customer 193,Male,34,Chennai,Tamil Nadu,South,Regular
+C0194,Customer 194,Male,29,Chennai,Tamil Nadu,South,Regular
+C0195,Customer 195,Male,44,Chennai,Tamil Nadu,South,Premium
+C0196,Customer 196,Female,36,Kolkata,West Bengal,East,Regular
+C0197,Customer 197,Female,36,Chennai,Tamil Nadu,South,Premium
+C0198,Customer 198,Male,34,Bengaluru,Karnataka,South,Regular
+C0199,Customer 199,Male,52,New Delhi,Delhi,North,Regular
+C0200,Customer 200,Female,27,Chennai,Tamil Nadu,South,Regular
+C0201,Customer 201,Male,37,Bengaluru,Karnataka,South,Premium
+C0202,Customer 202,Male,47,New Delhi,Delhi,North,Premium
+C0203,Customer 203,Female,50,New Delhi,Delhi,North,Premium
+C0204,Customer 204,Male,56,New Delhi,Delhi,North,Regular
+C0205,Customer 205,Female,56,New Delhi,Delhi,North,Premium
+C0206,Customer 206,Male,32,Bengaluru,Karnataka,South,Regular
+C0207,Customer 207,Male,29,Mumbai,Maharashtra,West,Premium
+C0208,Customer 208,Female,35,Kolkata,West Bengal,East,Regular
+C0209,Customer 209,Female,58,Kolkata,West Bengal,East,Premium
+C0210,Customer 210,Female,40,Bengaluru,Karnataka,South,Premium
+C0211,Customer 211,Female,60,Mumbai,Maharashtra,West,Regular
+C0212,Customer 212,Female,44,Chennai,Tamil Nadu,South,Premium
+C0213,Customer 213,Female,53,Mumbai,Maharashtra,West,Regular
+C0214,Customer 214,Male,38,New Delhi,Delhi,North,Premium
+C0215,Customer 215,Male,43,Mumbai,Maharashtra,West,Regular
+C0216,Customer 216,Female,44,Kolkata,West Bengal,East,Regular
+C0217,Customer 217,Female,57,Chennai,Tamil Nadu,South,Premium
+C0218,Customer 218,Male,31,New Delhi,Delhi,North,Premium
+C0219,Customer 219,Male,36,Kolkata,West Bengal,East,Premium
+C0220,Customer 220,Male,19,New Delhi,Delhi,North,Regular
+C0221,Customer 221,Female,53,Chennai,Tamil Nadu,South,Regular
+C0222,Customer 222,Female,23,Kolkata,West Bengal,East,Regular
+C0223,Customer 223,Female,25,Bengaluru,Karnataka,South,Regular
+C0224,Customer 224,Female,50,New Delhi,Delhi,North,Premium
+C0225,Customer 225,Female,48,New Delhi,Delhi,North,Regular
+C0226,Customer 226,Male,42,New Delhi,Delhi,North,Regular
+C0227,Customer 227,Male,22,Kolkata,West Bengal,East,Premium
+C0228,Customer 228,Female,50,New Delhi,Delhi,North,Premium
+C0229,Customer 229,Female,37,Bengaluru,Karnataka,South,Premium
+C0230,Customer 230,Female,52,Chennai,Tamil Nadu,South,Premium
+C0231,Customer 231,Female,53,Mumbai,Maharashtra,West,Premium
+C0232,Customer 232,Female,30,New Delhi,Delhi,North,Regular
+C0233,Customer 233,Female,32,Kolkata,West Bengal,East,Premium
+C0234,Customer 234,Female,48,Bengaluru,Karnataka,South,Premium
+C0235,Customer 235,Male,49,New Delhi,Delhi,North,Regular
+C0236,Customer 236,Female,24,Chennai,Tamil Nadu,South,Premium
+C0237,Customer 237,Female,18,Bengaluru,Karnataka,South,Regular
+C0238,Customer 238,Male,22,New Delhi,Delhi,North,Premium
+C0239,Customer 239,Female,57,Mumbai,Maharashtra,West,Premium
+C0240,Customer 240,Female,52,Bengaluru,Karnataka,South,Premium
+C0241,Customer 241,Female,52,Mumbai,Maharashtra,West,Regular
+C0242,Customer 242,Male,33,Kolkata,West Bengal,East,Premium
+C0243,Customer 243,Male,45,Chennai,Tamil Nadu,South,Regular
+C0244,Customer 244,Female,28,Bengaluru,Karnataka,South,Premium
+C0245,Customer 245,Male,38,Bengaluru,Karnataka,South,Regular
+C0246,Customer 246,Female,41,Mumbai,Maharashtra,West,Premium
+C0247,Customer 247,Male,51,Chennai,Tamil Nadu,South,Premium
+C0248,Customer 248,Male,28,Kolkata,West Bengal,East,Regular
+C0249,Customer 249,Female,57,Bengaluru,Karnataka,South,Regular
+C0250,Customer 250,Male,32,New Delhi,Delhi,North,Premium
+C0251,Customer 251,Female,34,Mumbai,Maharashtra,West,Regular
+C0252,Customer 252,Female,52,New Delhi,Delhi,North,Regular
+C0253,Customer 253,Female,40,Bengaluru,Karnataka,South,Premium
+C0254,Customer 254,Female,47,New Delhi,Delhi,North,Premium
+C0255,Customer 255,Female,48,Chennai,Tamil Nadu,South,Regular
+C0256,Customer 256,Female,54,Chennai,Tamil Nadu,South,Premium
+C0257,Customer 257,Female,36,Kolkata,West Bengal,East,Regular
+C0258,Customer 258,Female,18,New Delhi,Delhi,North,Regular
+C0259,Customer 259,Female,36,Kolkata,West Bengal,East,Regular
+C0260,Customer 260,Female,32,Kolkata,West Bengal,East,Regular
+C0261,Customer 261,Female,60,Kolkata,West Bengal,East,Regular
+C0262,Customer 262,Male,37,Bengaluru,Karnataka,South,Premium
+C0263,Customer 263,Female,26,Bengaluru,Karnataka,South,Regular
+C0264,Customer 264,Female,44,Mumbai,Maharashtra,West,Regular
+C0265,Customer 265,Male,52,Chennai,Tamil Nadu,South,Premium
+C0266,Customer 266,Female,28,Kolkata,West Bengal,East,Premium
+C0267,Customer 267,Female,39,New Delhi,Delhi,North,Regular
+C0268,Customer 268,Male,27,New Delhi,Delhi,North,Regular
+C0269,Customer 269,Female,23,New Delhi,Delhi,North,Premium
+C0270,Customer 270,Female,52,Bengaluru,Karnataka,South,Regular
+C0271,Customer 271,Female,34,New Delhi,Delhi,North,Premium
+C0272,Customer 272,Male,32,Mumbai,Maharashtra,West,Premium
+C0273,Customer 273,Female,57,Bengaluru,Karnataka,South,Regular
+C0274,Customer 274,Female,37,Bengaluru,Karnataka,South,Premium
+C0275,Customer 275,Male,20,Bengaluru,Karnataka,South,Regular
+C0276,Customer 276,Female,25,Mumbai,Maharashtra,West,Regular
+C0277,Customer 277,Male,42,Chennai,Tamil Nadu,South,Premium
+C0278,Customer 278,Female,55,Mumbai,Maharashtra,West,Regular
+C0279,Customer 279,Male,49,New Delhi,Delhi,North,Premium
+C0280,Customer 280,Male,41,Mumbai,Maharashtra,West,Regular
+C0281,Customer 281,Female,33,New Delhi,Delhi,North,Premium
+C0282,Customer 282,Female,52,Bengaluru,Karnataka,South,Premium
+C0283,Customer 283,Female,35,Bengaluru,Karnataka,South,Regular
+C0284,Customer 284,Female,23,Bengaluru,Karnataka,South,Regular
+C0285,Customer 285,Male,21,Kolkata,West Bengal,East,Premium
+C0286,Customer 286,Male,54,Chennai,Tamil Nadu,South,Regular
+C0287,Customer 287,Male,55,Bengaluru,Karnataka,South,Regular
+C0288,Customer 288,Female,27,Chennai,Tamil Nadu,South,Regular
+C0289,Customer 289,Male,26,Mumbai,Maharashtra,West,Premium
+C0290,Customer 290,Male,60,Chennai,Tamil Nadu,South,Regular
+C0291,Customer 291,Male,40,Chennai,Tamil Nadu,South,Regular
+C0292,Customer 292,Female,19,Kolkata,West Bengal,East,Regular
+C0293,Customer 293,Male,26,Mumbai,Maharashtra,West,Premium
+C0294,Customer 294,Male,22,Kolkata,West Bengal,East,Premium
+C0295,Customer 295,Female,50,New Delhi,Delhi,North,Regular
+C0296,Customer 296,Male,57,New Delhi,Delhi,North,Regular
+C0297,Customer 297,Female,47,Kolkata,West Bengal,East,Regular
+C0298,Customer 298,Female,43,Bengaluru,Karnataka,South,Premium
+C0299,Customer 299,Female,46,Bengaluru,Karnataka,South,Regular
+C0300,Customer 300,Female,56,Bengaluru,Karnataka,South,Regular
+C0301,Customer 301,Male,35,Bengaluru,Karnataka,South,Premium
+C0302,Customer 302,Female,47,New Delhi,Delhi,North,Premium
+C0303,Customer 303,Male,59,Bengaluru,Karnataka,South,Regular
+C0304,Customer 304,Female,32,New Delhi,Delhi,North,Premium
+C0305,Customer 305,Female,43,Mumbai,Maharashtra,West,Premium
+C0306,Customer 306,Female,45,Bengaluru,Karnataka,South,Premium
+C0307,Customer 307,Female,27,Mumbai,Maharashtra,West,Premium
+C0308,Customer 308,Male,23,Bengaluru,Karnataka,South,Regular
+C0309,Customer 309,Male,41,New Delhi,Delhi,North,Regular
+C0310,Customer 310,Male,55,Kolkata,West Bengal,East,Premium
+C0311,Customer 311,Female,40,Bengaluru,Karnataka,South,Premium
+C0312,Customer 312,Female,56,Bengaluru,Karnataka,South,Premium
+C0313,Customer 313,Male,54,Mumbai,Maharashtra,West,Regular
+C0314,Customer 314,Female,32,Chennai,Tamil Nadu,South,Regular
+C0315,Customer 315,Female,25,Mumbai,Maharashtra,West,Premium
+C0316,Customer 316,Male,45,Kolkata,West Bengal,East,Regular
+C0317,Customer 317,Female,19,Kolkata,West Bengal,East,Regular
+C0318,Customer 318,Female,39,Mumbai,Maharashtra,West,Premium
+C0319,Customer 319,Male,27,Bengaluru,Karnataka,South,Premium
+C0320,Customer 320,Male,58,Bengaluru,Karnataka,South,Regular
+C0321,Customer 321,Male,42,Bengaluru,Karnataka,South,Premium
+C0322,Customer 322,Female,28,New Delhi,Delhi,North,Premium
+C0323,Customer 323,Female,54,Mumbai,Maharashtra,West,Regular
+C0324,Customer 324,Male,28,Bengaluru,Karnataka,South,Regular
+C0325,Customer 325,Female,46,Bengaluru,Karnataka,South,Premium
+C0326,Customer 326,Female,44,New Delhi,Delhi,North,Premium
+C0327,Customer 327,Male,40,Chennai,Tamil Nadu,South,Premium
+C0328,Customer 328,Female,55,Bengaluru,Karnataka,South,Premium
+C0329,Customer 329,Female,20,Kolkata,West Bengal,East,Regular
+C0330,Customer 330,Male,18,New Delhi,Delhi,North,Regular
+C0331,Customer 331,Male,26,Mumbai,Maharashtra,West,Premium
+C0332,Customer 332,Female,25,Mumbai,Maharashtra,West,Regular
+C0333,Customer 333,Female,29,New Delhi,Delhi,North,Regular
+C0334,Customer 334,Male,50,New Delhi,Delhi,North,Premium
+C0335,Customer 335,Female,20,Bengaluru,Karnataka,South,Premium
+C0336,Customer 336,Female,22,Bengaluru,Karnataka,South,Premium
+C0337,Customer 337,Female,54,Kolkata,West Bengal,East,Premium
+C0338,Customer 338,Female,25,New Delhi,Delhi,North,Premium
+C0339,Customer 339,Female,28,Bengaluru,Karnataka,South,Premium
+C0340,Customer 340,Male,45,Mumbai,Maharashtra,West,Regular
+C0341,Customer 341,Female,55,Chennai,Tamil Nadu,South,Premium
+C0342,Customer 342,Male,43,Kolkata,West Bengal,East,Premium
+C0343,Customer 343,Male,39,Mumbai,Maharashtra,West,Regular
+C0344,Customer 344,Male,51,Bengaluru,Karnataka,South,Regular
+C0345,Customer 345,Female,59,Mumbai,Maharashtra,West,Regular
+C0346,Customer 346,Male,27,Chennai,Tamil Nadu,South,Premium
+C0347,Customer 347,Male,56,Chennai,Tamil Nadu,South,Regular
+C0348,Customer 348,Male,58,Bengaluru,Karnataka,South,Premium
+C0349,Customer 349,Female,54,New Delhi,Delhi,North,Premium
+C0350,Customer 350,Male,46,Mumbai,Maharashtra,West,Regular
+C0351,Customer 351,Female,58,New Delhi,Delhi,North,Premium
+C0352,Customer 352,Male,40,Mumbai,Maharashtra,West,Regular
+C0353,Customer 353,Female,46,Mumbai,Maharashtra,West,Regular
+C0354,Customer 354,Female,36,Bengaluru,Karnataka,South,Regular
+C0355,Customer 355,Female,47,Bengaluru,Karnataka,South,Regular
+C0356,Customer 356,Male,38,New Delhi,Delhi,North,Premium
+C0357,Customer 357,Male,21,Kolkata,West Bengal,East,Premium
+C0358,Customer 358,Female,23,Bengaluru,Karnataka,South,Regular
+C0359,Customer 359,Male,46,Bengaluru,Karnataka,South,Premium
+C0360,Customer 360,Male,41,Kolkata,West Bengal,East,Premium
+C0361,Customer 361,Female,44,Mumbai,Maharashtra,West,Premium
+C0362,Customer 362,Male,58,Kolkata,West Bengal,East,Premium
+C0363,Customer 363,Female,24,Bengaluru,Karnataka,South,Premium
+C0364,Customer 364,Female,60,Mumbai,Maharashtra,West,Regular
+C0365,Customer 365,Male,55,Mumbai,Maharashtra,West,Regular
+C0366,Customer 366,Female,59,Mumbai,Maharashtra,West,Premium
+C0367,Customer 367,Male,37,Chennai,Tamil Nadu,South,Premium
+C0368,Customer 368,Male,60,Mumbai,Maharashtra,West,Regular
+C0369,Customer 369,Female,19,New Delhi,Delhi,North,Premium
+C0370,Customer 370,Male,31,Mumbai,Maharashtra,West,Premium
+C0371,Customer 371,Male,32,New Delhi,Delhi,North,Regular
+C0372,Customer 372,Male,36,Chennai,Tamil Nadu,South,Regular
+C0373,Customer 373,Male,60,Kolkata,West Bengal,East,Premium
+C0374,Customer 374,Male,56,Kolkata,West Bengal,East,Premium
+C0375,Customer 375,Male,29,Chennai,Tamil Nadu,South,Regular
+C0376,Customer 376,Male,44,New Delhi,Delhi,North,Premium
+C0377,Customer 377,Female,57,Chennai,Tamil Nadu,South,Premium
+C0378,Customer 378,Male,52,New Delhi,Delhi,North,Regular
+C0379,Customer 379,Female,30,Mumbai,Maharashtra,West,Premium
+C0380,Customer 380,Female,47,Kolkata,West Bengal,East,Premium
+C0381,Customer 381,Female,28,New Delhi,Delhi,North,Regular
+C0382,Customer 382,Male,34,Kolkata,West Bengal,East,Regular
+C0383,Customer 383,Female,53,New Delhi,Delhi,North,Regular
+C0384,Customer 384,Male,36,Kolkata,West Bengal,East,Regular
+C0385,Customer 385,Female,46,Chennai,Tamil Nadu,South,Regular
+C0386,Customer 386,Male,32,New Delhi,Delhi,North,Premium
+C0387,Customer 387,Male,44,Mumbai,Maharashtra,West,Regular
+C0388,Customer 388,Female,33,New Delhi,Delhi,North,Premium
+C0389,Customer 389,Female,32,Bengaluru,Karnataka,South,Regular
+C0390,Customer 390,Male,59,Mumbai,Maharashtra,West,Premium
+C0391,Customer 391,Male,20,Chennai,Tamil Nadu,South,Premium
+C0392,Customer 392,Male,48,New Delhi,Delhi,North,Premium
+C0393,Customer 393,Male,23,Kolkata,West Bengal,East,Regular
+C0394,Customer 394,Male,27,Mumbai,Maharashtra,West,Premium
+C0395,Customer 395,Female,33,Bengaluru,Karnataka,South,Premium
+C0396,Customer 396,Male,33,Bengaluru,Karnataka,South,Premium
+C0397,Customer 397,Female,22,Kolkata,West Bengal,East,Regular
+C0398,Customer 398,Male,58,New Delhi,Delhi,North,Regular
+C0399,Customer 399,Female,45,Chennai,Tamil Nadu,South,Regular
+C0400,Customer 400,Female,33,Kolkata,West Bengal,East,Premium
+C0401,Customer 401,Male,51,Chennai,Tamil Nadu,South,Premium
+C0402,Customer 402,Male,42,Bengaluru,Karnataka,South,Premium
+C0403,Customer 403,Female,41,Bengaluru,Karnataka,South,Premium
+C0404,Customer 404,Female,22,Bengaluru,Karnataka,South,Premium
+C0405,Customer 405,Male,55,Chennai,Tamil Nadu,South,Premium
+C0406,Customer 406,Male,40,Chennai,Tamil Nadu,South,Premium
+C0407,Customer 407,Female,48,Chennai,Tamil Nadu,South,Regular
+C0408,Customer 408,Male,47,Chennai,Tamil Nadu,South,Regular
+C0409,Customer 409,Male,20,Mumbai,Maharashtra,West,Regular
+C0410,Customer 410,Female,37,Bengaluru,Karnataka,South,Premium
+C0411,Customer 411,Female,34,Kolkata,West Bengal,East,Regular
+C0412,Customer 412,Female,40,Chennai,Tamil Nadu,South,Regular
+C0413,Customer 413,Female,25,Mumbai,Maharashtra,West,Premium
+C0414,Customer 414,Female,46,New Delhi,Delhi,North,Premium
+C0415,Customer 415,Male,49,Mumbai,Maharashtra,West,Premium
+C0416,Customer 416,Female,23,Mumbai,Maharashtra,West,Premium
+C0417,Customer 417,Female,56,Bengaluru,Karnataka,South,Regular
+C0418,Customer 418,Female,38,Kolkata,West Bengal,East,Regular
+C0419,Customer 419,Female,60,Bengaluru,Karnataka,South,Premium
+C0420,Customer 420,Female,56,Mumbai,Maharashtra,West,Premium
+C0421,Customer 421,Female,40,Chennai,Tamil Nadu,South,Premium
+C0422,Customer 422,Female,57,Bengaluru,Karnataka,South,Premium
+C0423,Customer 423,Male,22,Mumbai,Maharashtra,West,Premium
+C0424,Customer 424,Male,19,Mumbai,Maharashtra,West,Regular
+C0425,Customer 425,Female,20,Kolkata,West Bengal,East,Regular
+C0426,Customer 426,Male,59,Bengaluru,Karnataka,South,Premium
+C0427,Customer 427,Female,54,Mumbai,Maharashtra,West,Regular
+C0428,Customer 428,Male,46,Kolkata,West Bengal,East,Premium
+C0429,Customer 429,Female,22,Mumbai,Maharashtra,West,Regular
+C0430,Customer 430,Female,43,Kolkata,West Bengal,East,Premium
+C0431,Customer 431,Male,25,Mumbai,Maharashtra,West,Regular
+C0432,Customer 432,Female,51,Chennai,Tamil Nadu,South,Premium
+C0433,Customer 433,Male,34,Kolkata,West Bengal,East,Premium
+C0434,Customer 434,Male,57,New Delhi,Delhi,North,Premium
+C0435,Customer 435,Male,25,New Delhi,Delhi,North,Regular
+C0436,Customer 436,Female,29,Bengaluru,Karnataka,South,Premium
+C0437,Customer 437,Female,60,Bengaluru,Karnataka,South,Premium
+C0438,Customer 438,Female,37,Bengaluru,Karnataka,South,Regular
+C0439,Customer 439,Female,50,Chennai,Tamil Nadu,South,Regular
+C0440,Customer 440,Male,26,Bengaluru,Karnataka,South,Regular
+C0441,Customer 441,Male,41,New Delhi,Delhi,North,Premium
+C0442,Customer 442,Male,57,New Delhi,Delhi,North,Regular
+C0443,Customer 443,Female,43,Bengaluru,Karnataka,South,Premium
+C0444,Customer 444,Female,44,Kolkata,West Bengal,East,Regular
+C0445,Customer 445,Female,59,Chennai,Tamil Nadu,South,Regular
+C0446,Customer 446,Female,51,New Delhi,Delhi,North,Premium
+C0447,Customer 447,Male,26,Chennai,Tamil Nadu,South,Premium
+C0448,Customer 448,Male,25,Kolkata,West Bengal,East,Regular
+C0449,Customer 449,Male,28,Mumbai,Maharashtra,West,Premium
+C0450,Customer 450,Female,51,Chennai,Tamil Nadu,South,Premium
+C0451,Customer 451,Female,30,Bengaluru,Karnataka,South,Premium
+C0452,Customer 452,Female,57,Chennai,Tamil Nadu,South,Regular
+C0453,Customer 453,Male,55,Kolkata,West Bengal,East,Regular
+C0454,Customer 454,Female,54,Chennai,Tamil Nadu,South,Regular
+C0455,Customer 455,Male,20,Bengaluru,Karnataka,South,Premium
+C0456,Customer 456,Female,57,Chennai,Tamil Nadu,South,Regular
+C0457,Customer 457,Female,59,New Delhi,Delhi,North,Premium
+C0458,Customer 458,Male,43,New Delhi,Delhi,North,Premium
+C0459,Customer 459,Male,21,New Delhi,Delhi,North,Regular
+C0460,Customer 460,Female,48,New Delhi,Delhi,North,Premium
+C0461,Customer 461,Female,56,Chennai,Tamil Nadu,South,Regular
+C0462,Customer 462,Female,40,Mumbai,Maharashtra,West,Premium
+C0463,Customer 463,Female,50,Chennai,Tamil Nadu,South,Regular
+C0464,Customer 464,Male,47,Mumbai,Maharashtra,West,Regular
+C0465,Customer 465,Female,33,Mumbai,Maharashtra,West,Regular
+C0466,Customer 466,Male,36,Bengaluru,Karnataka,South,Premium
+C0467,Customer 467,Female,33,Kolkata,West Bengal,East,Regular
+C0468,Customer 468,Female,30,Mumbai,Maharashtra,West,Regular
+C0469,Customer 469,Female,49,New Delhi,Delhi,North,Premium
+C0470,Customer 470,Male,23,New Delhi,Delhi,North,Premium
+C0471,Customer 471,Female,33,Kolkata,West Bengal,East,Regular
+C0472,Customer 472,Female,21,Kolkata,West Bengal,East,Regular
+C0473,Customer 473,Female,56,Mumbai,Maharashtra,West,Premium
+C0474,Customer 474,Male,24,Mumbai,Maharashtra,West,Premium
+C0475,Customer 475,Female,41,Chennai,Tamil Nadu,South,Premium
+C0476,Customer 476,Male,43,Mumbai,Maharashtra,West,Regular
+C0477,Customer 477,Male,41,Kolkata,West Bengal,East,Premium
+C0478,Customer 478,Female,50,Bengaluru,Karnataka,South,Premium
+C0479,Customer 479,Female,57,Kolkata,West Bengal,East,Regular
+C0480,Customer 480,Male,43,Chennai,Tamil Nadu,South,Premium
+C0481,Customer 481,Female,27,Mumbai,Maharashtra,West,Regular
+C0482,Customer 482,Female,50,Kolkata,West Bengal,East,Regular
+C0483,Customer 483,Male,26,Bengaluru,Karnataka,South,Premium
+C0484,Customer 484,Female,27,New Delhi,Delhi,North,Regular
+C0485,Customer 485,Female,28,Mumbai,Maharashtra,West,Premium
+C0486,Customer 486,Female,55,Kolkata,West Bengal,East,Premium
+C0487,Customer 487,Female,54,Kolkata,West Bengal,East,Premium
+C0488,Customer 488,Male,41,New Delhi,Delhi,North,Premium
+C0489,Customer 489,Female,55,Bengaluru,Karnataka,South,Premium
+C0490,Customer 490,Female,34,Bengaluru,Karnataka,South,Regular
+C0491,Customer 491,Female,28,Bengaluru,Karnataka,South,Premium
+C0492,Customer 492,Male,20,Chennai,Tamil Nadu,South,Regular
+C0493,Customer 493,Male,46,Chennai,Tamil Nadu,South,Premium
+C0494,Customer 494,Male,44,New Delhi,Delhi,North,Regular
+C0495,Customer 495,Female,21,New Delhi,Delhi,North,Regular
+C0496,Customer 496,Male,53,Kolkata,West Bengal,East,Premium
+C0497,Customer 497,Female,38,New Delhi,Delhi,North,Regular
+C0498,Customer 498,Female,52,New Delhi,Delhi,North,Premium
+C0499,Customer 499,Female,30,Mumbai,Maharashtra,West,Regular
+C0500,Customer 500,Female,32,Mumbai,Maharashtra,West,Premium

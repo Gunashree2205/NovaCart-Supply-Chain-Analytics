@@ -1,0 +1,11 @@
+Warehouse_ID,Warehouse_Name,City,State,Region,Capacity
+W01,Warehouse 1,Bengaluru,Karnataka,South,5519
+W02,Warehouse 2,Bengaluru,Karnataka,South,11640
+W03,Warehouse 3,New Delhi,Delhi,North,11179
+W04,Warehouse 4,Kolkata,West Bengal,East,12798
+W05,Warehouse 5,Bengaluru,Karnataka,South,5154
+W06,Warehouse 6,Chennai,Tamil Nadu,South,6354
+W07,Warehouse 7,New Delhi,Delhi,North,12109
+W08,Warehouse 8,Mumbai,Maharashtra,West,14270
+W09,Warehouse 9,Bengaluru,Karnataka,South,13653
+W10,Warehouse 10,Bengaluru,Karnataka,South,8764
