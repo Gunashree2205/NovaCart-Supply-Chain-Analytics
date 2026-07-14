@@ -59,31 +59,31 @@ Orders → Returns
 Dashboard Pages
 
 Executive Summary
-Provides an overview of revenue, profit, orders, customers, and average order value.
+
 ![Executive Summary Dashboard](Images/01%20EXECUTIVE%20SUMMARY%20DASHBOARD.png)
 
 Demand & Customer Analysis
-Analyzes customer demand patterns, purchasing behavior, and customer segmentation.
+
 ![Demand & Customer Dashboard](Images/02%20DEMAND%20&%20CUSTOMER%20DASHBOARD.png)
 
 Product & Inventory Analysis
-Focuses on product performance, Reveneue Breakdown, and ABC Inventory Classification.
+
 ![Product & Inventory Analysis](Images/03%20PRODUCT%20&%20INVENTORY%20ANALYSIS.png)
 
 Warehouse Operations
-Measures warehouse revenue, profitability, and operational efficiency.
+
 ![Warehouse Operations](Images/04%20WAREHOUSE%20OPERATIONS.png)
 
 Logistics & Delivery Analysis
-Evaluates delivery performance, shipping modes, and return trends.
+
 ![Logistics & Delivery Analysis](Images/05%20LOGISTICS%20&%20DELIVERY%20ANALYSIS.png)
 
 Regional Performance
-Analyzes revenue, profit, and performance across different regions.
+
 ![Regional Performance](Images/06%20REGIONAL%20PERFORMANCE.png)
 
 Executive Scorecard
-Summarizes key business metrics to support executive decision-making.
+
 ![Executive Scorecard](Images/07%20EXECUTIVE%20SCORECARD.png)
 
 SQL Analysis
