@@ -117,14 +117,3 @@ Key Business Insights
 - Analyzed regional profitability and customer purchasing behavior.
 - Built executive dashboards for data-driven decision-making.
 
-Repository Structure
-
-NovaCart-Supply-Chain-Analytics/
-│
-├── Dashboard/
-├── SQL/
-├── Dataset/
-├── Images/
-├── Documentation/
-├── README.md
-└── LICENSE
